@@ -1,8 +1,8 @@
 # Awesome moinAI Prompts
 Eine Sammlung von Prompts die genutzt werden kann für unsere Zwecke
 ## 📂 Contents
-### ✨ Prompts für jeden Tag
-Alltägliche Prompts die man nutzen kann
+### ✨ Allgemeines
+[Prompt Guide für LLMs]([url](https://github.com/moinrobert/moinai-prompts/blob/main/Prompt%20Guide.md))
 
 ### 🎺 Marketing Prompts
 Auswertungen, E-Mails und Inspiration für Marketing
