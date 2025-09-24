@@ -12,6 +12,6 @@ Zum schnelleren Arbeiten im CSM
 ### 🚀 Allgemeine Prompt-Snippets
 Snippets die man einem Prompt hinzufügen kann um z.B. die Tonalität zu beeinflussen
 ### 🐤 Lustige Prompts
-- die Spießumkehr E-Mail
+- [die Spießumkehr E-Mail](https://github.com/moinrobert/moinai-prompts/blob/main/Spie%C3%9Fumkehr%20Mail.md)
 - Action-Figur
 - Studio Ghibli Avatar
