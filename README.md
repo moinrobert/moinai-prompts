@@ -7,6 +7,7 @@ Eine Sammlung von Prompts die genutzt werden kann für unsere Zwecke
 
 ### 🎺 Marketing Prompts
 Auswertungen, E-Mails und Inspiration für Marketing
+- [Event-Links für Kalender erstellen]([https://github.com/moinrobert/moinai-prompts/blob/main/Text-To-Image%20Creator.md](https://github.com/moinrobert/moinai-prompts/blob/main/event-links-erstellen))
 ### 👩‍🔧 CSM Prompts
 Zum schnelleren Arbeiten im CSM
 ### 🚀 Allgemeine Prompt-Snippets
